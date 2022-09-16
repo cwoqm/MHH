@@ -1,0 +1,10 @@
+﻿* Ngày: 09-06-2018
+* Thời gian bắt đầu: 14h00
+* Thời gian kết thúc: 19h00
+* Địa điểm: Circle K tại trường Đại học Bách Khoa.
+* Thành viên: có mặt đủ cả 4 thành viên.
+* Nội dung thảo luận:
+	-) Chỉnh sửa phần mô tả ngữ cảnh và các điều khoản của ngữ cảnh đó.
+	-) Chuyển tất cả ngữ cảnh sang linear logic.
+	-) Viết mã giả.
+=> Kết quả: nhóm chúng em có đăng trong slack sau mỗi lần họp.

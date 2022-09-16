@@ -1,0 +1,8 @@
+* Ngày: 06-06-2018
+* Thời gian bắt đầu: 14h00
+* Thời gian kết thúc: 16h20
+* Địa điểm: gọi video qua facebook
+* Thành viên: có mặt đủ cả 4 thành viên.
+* Nội dung thảo luận:
+	-) Bổ sung phần mô tả ngữ cảnh và các điều khoản của ngữ cảnh đó.
+	-) Chuyển một phần ngữ cảnh sang linear logic.

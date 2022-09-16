@@ -1,0 +1,27 @@
+* Ngày: 21-05-2018
+* Thời gian bắt đầu: 14h30
+* Thời gian kết thúc: 16h30
+* Địa điểm: 308H6 Đại học Bách Khoa Cơ sở 2
+* Thành viên: có mặt đủ cả 4 thành viên.
+* Nội dung thảo luận:
+	-) Bài toán 1:(lựa chọn ngẫu nhiên)
+		+) Trình bày chi liết lịch sử, ứng dụng hợp đồng thông minh : Thức
+		+) Trình bày chi tiết về lịch sử, ứng dụng của linear logic : Thám
+		+) Làm rõ hơn các phép toán đã nêu : Khang
+		+) Phép toán phủ định, khẳng định, !,? : Thoại
+	-) Bài toán 2: hợp đồng trả lương cho nhân viên bán thời gian.
+		+) Mô tả: Công việc bán thời gian là loại hình công việc việc đang rất phổ biến trong xã hội hiện nay. Tuy nhiên, có một vấn đề nan giải hiện nay đó là việc chủ thuê không thanh toán cho nhân viên bán thời gian khi họ đã hoàn thành công việc. Thực trạng này đã gây ra nhiều bức xúc trong cộng đồng. Do đó, để giải quyết vấn đề trên, nhóm em đã thảo luận và nhất trí đưa ra cách giải quyết như sau: người chủ phải chuyển tiền thuê trước cho bên thứ ba, bên này sẽ là trung gian giữa người chủ và nhân viên. Khi tiền đã được chuyển đủ cho bên thứ ba thì nhân viên bắt đầu thực hiện công việc. Nếu nhân viên hoàn thành công việc thì số tiền từ bên thứ ba sẽ chuyển cho nhân viên. Ngược lại, nhân viên không hoàn thành số tiền sẽ được chuyển về lại người chủ. Ở đây, nhóm tạo ra một smart contract có chức năng như một bên thứ ba giúp cho việc trả lương diễn ra một cách minh bạch.
+		+) Tình huống cụ thể:
+Một người chủ quán coffee ở xa muốn thuê nhân viên làm việc bán thời gian cho hệ thống của mình. Quán coffee này có hệ thống giám sát nhân viên bằng việc bằng việc điểm danh qua vân tay giữa đầu buổi và cuối buổi, và thông qua hệ thống camera cài đặt. Bất cứ ai thỏa yêu cầu về độ tuổi, ngoại hình, và muốn làm việc có thể liên lạc với ông chủ và sau khi thỏa thuận, giữa hai người sẽ thanh toán tiền lương thông qua hệ thống smart contract mà chúng em xây dựng. Ví dụ một quá trình thuê nhân viên sẽ diễn ra cụ thể như sau: 
+- Người A muốn làm việc cho ông chủ B từ ngày 21-05-2018 đến hết tuần và cố định thời gian như sau:
+    + Ngày 21-05 làm từ 7h tới 11h
+    + Ngày 22-05 làm từ 15h tới 21h
+    + Ngày 23-05 làm từ 7h tới 11h
+    + Ngày 25-05 làm từ 18h tới 22h
+    + Ngày 26-05 làm từ 13h tới 17h
+- Để đảm bảo việc đi làm đầy đủ, đúng thời gian đã thỏa thuận thì nhân viên sẽ điểm danh vào đầu buổi và cuối buổi, đồng thời có camera giám sát quá trình làm việc. Việc điểm danh sẽ được cập nhật lên hệ thống smart contract để tính lương.Với hệ số lương là 15.000 VNĐ/1 giờ.
+- Nếu A đi làm dưới 90% thời gian đã đăng ký làm việc lúc đầu thì smart contract sẽ không chuyển lương 
+- Đúng 9h sáng ngày 20-05 nếu người chủ chưa chuyển toàn bộ tiền lương cả tuần cho nhân viên cho hệ thống smart constract thì hợp đồng bị phá vỡ, nhân viên không cần đi làm.
+- Ngược lại nếu ông chủ chuyển tiền vào hệ thống smart constract thì nhân viên được đảm bảo tiền lương nếu hoàn thành công việc và họ đi làm bình thường.
+- Đúng 9h sáng ngày 27-05 nếu người đi làm không đi làm đúng như thỏa thuận mà hệ thống chấm công cập nhật thì hệ thống smart constract không chuyển tiền cho nhân viên.
+- Ngược lại nếu nhân viên đi làm đầy đủ thì tiền trên hệ thống smart constract sẽ chuyển cho nhân viên tương ứng với lương.

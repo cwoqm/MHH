@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u v\IeC {\`\ecircumflex } smart contract}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}L\IeC {\d i}ch s\IeC {\h \uhorn } smart contract}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}\IeC {\'\UHORN }ng d\IeC {\d u}ng smart contract}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Linear logic}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}L\IeC {\d i}ch s\IeC {\h \uhorn } linear logic}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}\IeC {\'\UHORN }ng d\IeC {\d u}ng linear logic}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}C\IeC {\'a}c nguy\IeC {\^e}n l\IeC {\'y} c\IeC {\ohorn } b\IeC {\h a}n c\IeC {\h u}a linear logic}{3}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}H\IeC {\`a}m tuy\IeC {\'\ecircumflex }n t\IeC {\'\i }nh}{3}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}C\IeC {\'a}c ph\IeC {\'e}p h\IeC {\d \ocircumflex }i tuy\IeC {\'\ecircumflex }n t\IeC {\'\i }nh}{3}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}C\IeC {\'a}c ph\IeC {\'e}p tuy\IeC {\h \ecircumflex }n tuy\IeC {\'\ecircumflex }n t\IeC {\'\i }nh}{4}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}Ph\IeC {\'e}p ph\IeC {\h u} \IeC {\dj }\IeC {\d i}nh v\IeC {\`a} kh\IeC {\h \abreve }ng \IeC {\dj }\IeC {\d i}nh tuy\IeC {\'\ecircumflex }n t\IeC {\'\i }nh}{4}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}C\IeC {\'a}c ph\IeC {\'e}p to\IeC {\'a}n "of course" ! , "why not" ?}{5}{subsubsection.2.3.5}
+\contentsline {section}{\numberline {3}\IeC {\DJ }\IeC {\d \abreve }c t\IeC {\h a} smart contract b\IeC {\`\abreve }ng linear logic}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}M\IeC {\^o} t\IeC {\h a} ng\IeC {\~\uhorn } c\IeC {\h a}nh cho smart contract}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}M\IeC {\^o} t\IeC {\h a} ng\IeC {\~\uhorn } c\IeC {\h a}nh d\IeC {\uhorn }\IeC {\'\ohorn }i d\IeC {\d a}ng c\IeC {\'a}c \IeC {\dj }i\IeC {\`\ecircumflex }u kho\IeC {\h a}n}{7}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}\IeC {\DJ }\IeC {\d \abreve }c t\IeC {\h a} ng\IeC {\~\uhorn } c\IeC {\h a}nh b\IeC {\`\abreve }ng linear logic}{7}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}D\IeC {\`u}ng m\IeC {\~a} gi\IeC {\h a} \IeC {\dj }\IeC {\h \ecircumflex } x\IeC {\^a}y d\IeC {\d \uhorn }ng m\IeC {\d \ocircumflex }t smart contract}{9}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}D\IeC {\`u}ng Solidity \IeC {\dj }\IeC {\h \ecircumflex } x\IeC {\^a}y d\IeC {\d \uhorn }ng m\IeC {\d \ocircumflex }t smart contract}{10}{subsection.3.5}
